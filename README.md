@@ -2,6 +2,10 @@
 
 This repository contains a comprehensive analysis of student progress using various factors like extracurricular activities, parental support, gender, ethnicity, and more. The dataset includes 2,392 students and examines how different variables influence academic performance and participation in extracurricular activities.
 
+
+![image](https://github.com/user-attachments/assets/1ff82106-5e4b-49a3-bfb4-d8de74654d0d)
+
+
 ## Overview
 
 The analysis provides insights into the following:
@@ -93,7 +97,5 @@ Solution: Introduce a wider variety of sports and physical activities that appea
 
 Tools Used The analysis was conducted using Power BI for creating interactive and insightful data visualizations. Additionally, Google Colab was utilized for performing the data analysis in Python. You can view the Colab notebook[ here.](https://colab.research.google.com/drive/1RsJc0tSCn6XHxo7yL5INrls0jNTIG1rG#scrollTo=-LZizImmpwEe)
 
-
-![image](https://github.com/user-attachments/assets/1ff82106-5e4b-49a3-bfb4-d8de74654d0d)
 
 
