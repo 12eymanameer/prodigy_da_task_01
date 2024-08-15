@@ -23,7 +23,7 @@ The analysis provides insights into the following:
 
 ## Data
 
-The dataset, `Student_performance_data.csv`, includes the following columns:
+The dataset is taken from Kaggle, `Student_performance_data.csv`, includes the following columns:
 
 - **Student ID**: Unique identifier for each student
 - **Gender**: Gender of the student (Male/Female)
@@ -88,6 +88,10 @@ Solution: Re-engage older students by tailoring extracurricular activities to th
 Problem: A significant portion of students (30.35%) do not participate in sports, potentially missing out on the physical and mental health benefits.
 
 Solution: Introduce a wider variety of sports and physical activities that appeal to students with different interests and physical capabilities. Additionally, provide education on the importance of physical health and its connection to academic success.
+
+###
+
+Tools Used The analysis was conducted using Power BI for creating interactive and insightful data visualizations. Additionally, Google Colab was utilized for performing the data analysis in Python. You can view the Colab notebook[ here.](https://colab.research.google.com/drive/1RsJc0tSCn6XHxo7yL5INrls0jNTIG1rG#scrollTo=-LZizImmpwEe)
 
 
 ![image](https://github.com/user-attachments/assets/1ff82106-5e4b-49a3-bfb4-d8de74654d0d)
