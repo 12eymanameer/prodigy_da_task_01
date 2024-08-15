@@ -38,30 +38,55 @@ The dataset, `Student_performance_data.csv`, includes the following columns:
 - **Extracurricular**: Involvement in extracurricular activities (Yes/No)
 
 
-Problems Identified and Solutions
-1. Low Participation in Extracurricular Activities
+## Problems Identified and Solutions
+
+
+**1. Low Participation in Extracurricular Activities**
+
 Problem: Only 38% of students are engaged in extracurricular activities, indicating a significant portion of students might be missing out on the benefits of such involvement.
+
 Solution: Increase awareness of the importance of extracurricular activities by organizing events that highlight their value. Additionally, provide more diverse options to cater to different student interests.
-2. Disparities in Parental Support
+
+**2. Disparities in Parental Support**
+
 Problem: A small but significant portion of students (8.9%) lack parental support, which could impact their academic performance and overall well-being.
+
 Solution: Implement mentorship programs where students with low or no parental support can be paired with mentors. This can help bridge the gap and provide the necessary guidance and support.
-3. Gender Imbalance in GPA and Extracurricular Participation
+
+**3. Gender Imbalance in GPA and Extracurricular Participation**
+
 Problem: There is a noticeable difference in GPA and extracurricular participation between male and female students, with females participating slightly less in extracurricular activities.
+
 Solution: Encourage balanced participation by addressing any potential biases or barriers that might be limiting female students’ involvement in extracurricular activities. This could involve promoting gender-neutral activities or addressing stereotypes.
-4. Inconsistent Tutoring Support Across Grades
+
+**4. Inconsistent Tutoring Support Across Grades**
+
 Problem: There is a disparity in tutoring support across different grade levels, with students in higher grades (Grade 3 and 4) receiving more tutoring compared to lower grades.
+
 Solution: Introduce tutoring support earlier, especially for lower grades, to build a strong academic foundation. This could help improve overall performance and reduce the need for intensive tutoring in higher grades.
-5. Impact of Parental Education on Student Support
+
+**5. Impact of Parental Education on Student Support**
+
 Problem: Students whose parents have lower levels of education tend to receive less support, which might affect their academic outcomes.
+
 Solution: Provide workshops and resources for parents, particularly those with lower educational backgrounds, to equip them with the skills and knowledge to better support their children’s education.
-6. Underrepresentation of Certain Ethnic Groups in High Parental Support
+
+**6. Underrepresentation of Certain Ethnic Groups in High Parental Support**
+
 Problem: Certain ethnic groups, particularly African American and Asian students, are underrepresented in categories of high and very high parental support.
+
 Solution: Collaborate with community organizations to provide culturally relevant support programs that engage parents from underrepresented ethnic groups, helping them to better support their children’s education.
-7. Age-Based Participation Decline
+
+**7. Age-Based Participation Decline**
+
 Problem: There is a slight decline in participation in extracurricular activities and sports as students age, particularly by the age of 18.
+
 Solution: Re-engage older students by tailoring extracurricular activities to their interests and future aspirations. Consider integrating career-oriented programs and internships that can align with their academic goals.
-8. Limited Engagement in Sports Activities
+
+**8. Limited Engagement in Sports Activities**
+
 Problem: A significant portion of students (30.35%) do not participate in sports, potentially missing out on the physical and mental health benefits.
+
 Solution: Introduce a wider variety of sports and physical activities that appeal to students with different interests and physical capabilities. Additionally, provide education on the importance of physical health and its connection to academic success.
 
 
